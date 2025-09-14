@@ -127,28 +127,4 @@ backend engineer/
 - Examples: [examples/README.md](examples/README.md)
 
 ---
-
-## 🏆 Evaluation Criteria
-- **Functionality:** Does your solution work as required?
-- **Code Quality:** Clean, readable, maintainable code (PEP8, docstrings, type hints)
-- **Architecture:** Good design, modularity, scalability
-- **Testing:** Unit/integration tests, coverage ≥80%
-- **Performance:** Efficient, optimized, and measured
-- **Documentation:** Clear setup, usage, and API docs
-
----
-
-## 💡 Tips
-- Start simple, iterate, and test early
-- Use Docker for all services
-- Document your design and decisions
-- Optimize only after measuring
-- Ask questions if requirements are unclear
-
----
-
-## 🤝 Support
-- Check problem docs and examples first
-- For issues, create a GitHub issue or contact the evaluation team
-
-Good luck with your assessment! 🎯
+=
